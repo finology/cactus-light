@@ -1,10 +1,11 @@
 nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: http://github.com/gabithume
+  首页: /
+  分类: /categories/
+  关于: /about/
+  归档: /archives/
+#  Projects: http://github.com/gabithume
 
-projects_url: http://github.com/gabithume
+projects_url: http://finolo.gy
 
 customize:
     gravatar:
@@ -32,7 +33,7 @@ customize:
         facebook: /
         linkedin: /
     show_all_posts: false
-    post_count: 5
+    post_count: 15
     highlight: monokai
 
 # RSS
